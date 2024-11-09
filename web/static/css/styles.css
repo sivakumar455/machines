@@ -1,0 +1,4 @@
+/* Ensure all images have the same size */
+.fixed-size {
+    height: 300px; /* Set a fixed height */
+  }
